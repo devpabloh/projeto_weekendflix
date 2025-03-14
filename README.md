@@ -1,2 +1,13 @@
 # projeto_weekendflix
  Projeto utilizando React.js para o frontend e para o backend utilizando node.js e express
+
+Chave da API
+414ed60c46a449b2b66806438371e3de
+
+Token de Leitura da API
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0MTRlZDYwYzQ2YTQ0OWIyYjY2ODA2NDM4MzcxZTNkZSIsIm5iZiI6MTc0MTk4MDg2MS44NTUsInN1YiI6IjY3ZDQ4NGJkMmIzN2JiNDk3N2E5ODQ3NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6Ky3YZ41KGoPSRyaW97_4sruOFOHnu1-UTT4uTFbG5Y
+
+https://www.themoviedb.org/documentation/api
+
+Documentação da API
+developer.themoviedb.org
