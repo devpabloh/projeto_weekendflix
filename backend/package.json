@@ -1,0 +1,19 @@
+{
+  "name": "projeto_weekendflix",
+  "version": "1.0.0",
+  "description": "Projeto utilizando React.js para o frontend e para o backend utilizando node.js e express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Pablo Henrique Ferreira de França",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
